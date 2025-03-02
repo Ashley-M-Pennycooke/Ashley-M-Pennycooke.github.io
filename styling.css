@@ -1,0 +1,27 @@
+body {
+  background-color: #D5C6E0;
+}
+h1 {
+  text-align:center;
+  color: #28112B;
+  font-family: "Garamond", serif;
+  font-size: 2em;
+}
+
+li.nav a:hover {
+  background-color: #1f6099;
+}
+
+ul.nodot {
+  list-style-type: none;
+  margin-left: 8%;
+}
+
+header.resume {
+  padding-top: 5%;
+  text-align: center;
+}
+
+td.right {
+  padding-left: 25;
+}
