@@ -1,12 +1,12 @@
 body {
 	background: #ff416c, #ff4b2b, #00d2ff, #ffb199;
 }
+
 h1 {
 	font-family: Poppins, sans-serif;
-	color: #59365f;
+	color: white;
 	text-align: center;
 	front-size: 2em;
-
 	}
 ul.nav {
 	list-style-type: none;
@@ -14,90 +14,36 @@ ul.nav {
 	padding: 0
 	overflow: hidden;
 	background-color: #28112B
-
 }
 
 li.nav{
 	float: top;
-
 }
+
 li.nav a {
 	front-family:Poppins, sans-serif;
 	front-size: 1.2em;
 	display: inline-block;
-	color: #feffff;
+	color: white;
 	padding: 14px 16px;
 	text-decoration:solid;
 	text-transform: uppercase;
-
 }
+
 li.nav a:hover{
-	background-color: #007a00;
-
+	background-color: #1f6099;
 }
 
-h2 {
-	font: italic normal 1.4em georgia, sans-serif;
-	letter-spacing: 1px;
-	margin-bottom: 0;
-	background-color: #59365f
-	color: #7D775C;
-	}
-
-a:link {
-	font-weight: bold;
-	text-decoration: none;
-	color: #B7A5DF;
-	}
-
-a:visited {
-	font-weight: bold;
-	text-decoration: none;
-	color: #D4CDDC;
-	}
-
-a:hover, a:focus, a:active {
-	text-decoration: underline;
-	color: #9685BA;
-	}
-
-abbr {
-	border-bottom: none;
-	}
-
-
-.intro {
-	min-width: 470px;
-	width: 100%;
-	}
-
-header h1 {
-	background: #7D775C
-	margin-top: 10px;
-	display: block;
-	width: 219px;
-	height: 87px;
-	float: left;
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	}
-
-header h2 {
-	background: darkblue
-	margin-top: 58px;
-	margin-bottom: 40px;
-	width: 200px;
-	height: 18px;
-	float: right;
-
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	}
+ul.nodot {
+	list-style-type: none;
+	margin-left: 8%
+}
 
 header {
-	padding-top: 20px;
-	height: 87px;
+	padding-top: 5%
+	text-align:center;
+}
+
+td.right {
+	padding-left: 25;
 }
