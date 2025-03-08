@@ -11,12 +11,14 @@ h1 {
 	}
 ul.nav {
 	list-style-type: none;
-	margin: 0
-	padding: 0
-	overflow: hidden;
+
+	padding-left: 0;
+	padding-right: 0;
+	list-style-type: none
+	right: 16.6;
+	width: 80.4;
 	background-color: #ff4d4d
-	display: inline;
-	 margin: 0 15px;
+	display: flow;
 }
 
 li.nav{
@@ -26,11 +28,12 @@ li.nav{
 li.nav a {
 	front-family: "arial", sans-serif;
 	front-size: 1.2em;
-	display:grid;
+	display:block;
 	color: black;
-	padding: 14px 16px;
+	padding: 14px 36px;
 	text-decoration:solid;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 li.nav a:hover{
@@ -54,7 +57,7 @@ ul.nodot {
 }
 
 header.resume {
-	padding-top: 5%;
+	padding-top: 10%;
 	text-align: center;
 }
 
