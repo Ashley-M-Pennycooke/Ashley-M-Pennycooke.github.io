@@ -1,12 +1,13 @@
 body {
-	background: #ff416c, #ff4b2b, #00d2ff, #ffb199;
+	background:linear-gradient(135deg, #ff9a9e, #fad0c4);
 }
 
 h1 {
-	font-family: Poppins, sans-serif;
+	font-family: 'Poppins', sans-serif;
 	color: white;
 	text-align: center;
 	front-size: 2em;
+
 	}
 ul.nav {
 	list-style-type: none;
@@ -14,6 +15,8 @@ ul.nav {
 	padding: 0
 	overflow: hidden;
 	background-color: #28112B
+	display: inline;
+	 margin: 0 15px;
 }
 
 li.nav{
@@ -32,6 +35,17 @@ li.nav a {
 
 li.nav a:hover{
 	background-color: #1f6099;
+}
+
+a {
+    color: #0073e6;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #ff6b6b;
+    text-decoration: underline;
 }
 
 ul.nodot {
