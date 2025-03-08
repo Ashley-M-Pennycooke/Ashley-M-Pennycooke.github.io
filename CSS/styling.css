@@ -4,12 +4,11 @@ body {
 
 	body {
 	font-family: 'Poppins', sans-serif;
-	background: linear-gradient(to right, #ff6666, #FFDAB9);
+	background:  #FFDAB9;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	height: 100vh;
 	text-align: center;
 	margin: 0;
 	padding: 20px;
@@ -84,41 +83,9 @@ td.right {
 	padding-left: 25;
 }
 
-main {
-    width: 80%;
-    margin: auto;
-    text-align: center;
-}
-
 footer {
     text-align: center;
     padding: 10px;
     background-color: #333;
     color: white;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: center;
-    background: #ff4d4d;
-	}
-
-	nav ul li {
-    display: inline;
-    margin: 0 15px;
-	}
-
-	nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px 15px;
-    transition: 0.3s;
-}
-
-nav ul li a:hover {
-    background-color: #ffb380;
-    border-radius: 5px;
 }
