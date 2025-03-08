@@ -20,13 +20,13 @@ ul.nav {
 }
 
 li.nav{
-	float: top;
+	float: left;
 }
 
 li.nav a {
-	front-family:'Poppins', sans-serif;
+	front-family: "arial", sans-serif;
 	front-size: 1.2em;
-	display: inline-block;
+	display:grid;
 	color: black;
 	padding: 14px 16px;
 	text-decoration:solid;
@@ -38,7 +38,7 @@ li.nav a:hover{
 }
 
 a {
-    color: #ff9933;
+    color: #ff993;
     text-decoration: none;
     transition: 0.3s;
 }
@@ -51,6 +51,11 @@ a:hover {
 ul.nodot {
 	list-style-type: none;
 	margin-left: 8%
+}
+
+header.resume {
+	padding-top: 5%;
+	text-align: center;
 }
 
 header {
