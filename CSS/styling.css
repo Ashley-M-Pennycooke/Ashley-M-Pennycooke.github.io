@@ -1,57 +1,61 @@
 body {
-	background-color: #ff6666);
-}
+	background-color: #ff6666;
+ }
 
-body {
-	  display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: center;
-    background-color: #FFDAB9;
-    margin: 0;
-    flex-direction: column;
-}
+	body {
+	font-family: 'Poppins', sans-serif;
+	background: linear-gradient(to right, #ff6666, #FFDAB9);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	text-align: center;
+	margin: 0;
+	padding: 20px;
+ }
+
 h1 {
 	font-family: 'Poppins', sans-serif;
 	color: black;
 	text-align: center;
 	front-size: 2em;
-
 	}
-ul.nav {
-	list-style-type: none;
 
-	padding-left: 0;
-	padding-right: 0;
-	list-style-type: none
-	right: 16.6;
-	width: 80.4;
-	background-color: #ff4d4d
-	display: flow;
-}
+	ul.nav {
+		list-style-type: none;
+		margin: 0;
+		padding: 10px 0;
+		width: 100%;
+		background-color: #ff4d4d;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
 
 li.nav{
 	float: left;
-}
+ }
 
-li.nav a {
-	front-family: "arial", sans-serif;
-	front-size: 1.2em;
-	display:block;
-	color: black;
-	padding: 14px 36px;
-	text-decoration:solid;
-	text-transform: uppercase;
-	text-align: center;
-}
+ li.nav a {
+ 	font-family: 'Poppins', sans-serif;
+ 	font-size: 1.2em;
+ 	display: block;
+ 	color: white;
+ 	padding: 14px 24px;
+ 	text-decoration: none;
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	transition: background-color 0.3s ease-in-out;
+ }
 
-li.nav a:hover{
-	background-color: #ffb380;
-}
+ li.nav a:hover {
+ 	background-color: #ffb380;
+ }
 
 a {
-    color: #ff993;
+		color: #ff9933;
     text-decoration: none;
     transition: 0.3s;
 }
@@ -72,10 +76,49 @@ header.resume {
 }
 
 header {
-	padding-top: 5%
+	padding-top: 5%;
 	text-align:center;
 }
 
 td.right {
 	padding-left: 25;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background: #ff4d4d;
+	}
+
+	nav ul li {
+    display: inline;
+    margin: 0 15px;
+	}
+
+	nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #ffb380;
+    border-radius: 5px;
 }
