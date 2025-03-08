@@ -14,7 +14,7 @@ ul.nav {
 	margin: 0
 	padding: 0
 	overflow: hidden;
-	background-color: #28112B
+	background-color: #ff4d4d
 	display: inline;
 	 margin: 0 15px;
 }
@@ -34,11 +34,11 @@ li.nav a {
 }
 
 li.nav a:hover{
-	background-color: #1f6099;
+	background-color: #ff751a;
 }
 
 a {
-    color: #0073e6;
+    color: #ff9933;
     text-decoration: none;
     transition: 0.3s;
 }
