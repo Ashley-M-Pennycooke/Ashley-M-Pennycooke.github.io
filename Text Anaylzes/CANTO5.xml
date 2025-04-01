@@ -1,481 +1,491 @@
-CANTO 5.
+<?xml version="1.0" encoding="UTF-8"?>
+ <text>
+   <frontmatter>
+     <chapterheader>
+                   <title>DEDICATION.</title>
 
+                 By <author>Percy Bysshe Shelley</author>
 
+<chapterQuote> There is no danger to a man that knows
+What life and death is: there's not any law
+Exceeds his knowledge; neither is it lawful
+That he should stoop to any other law.--CHAPMAN.
+
+TO MARY -- --.</chapterQuote>
+
+<chapter n="5">CANTO 5.</chapter>
+
+<body>
 1.
-Over the utmost hill at length I sped,                               _1720
-A snowy steep:--the moon was hanging low
-Over the Asian mountains, and outspread
-The plain, the City, and the Camp below,
-Skirted the midnight Ocean's glimmering flow;
-The City's moonlit spires and myriad lamps,                          _1725
-Like stars in a sublunar sky did glow,
-And fires blazed far amid the scattered camps,
-Like springs of flame, which burst where'er swift Earthquake stamps.
+<p><line>Over the utmost hill at length I sped,</line>                               _1720
+<line>A snowy steep:--the moon was hanging low</line>
+<line>Over the Asian mountains, and outspread</line>
+<line>The plain, the City, and the Camp below,</line>
+<line>Skirted the midnight Ocean's glimmering flow;</line>
+<line>The City's moonlit spires and myriad lamps,</line>                           _1725
+<line>Like stars in a <define>sublunar</define> sky did glow,</line>
+<line>And fires blazed far amid the scattered camps,</line>
+<line>Like springs of flame, which burst where'er swift Earthquake stamps.</p></line>
 
 2.
-All slept but those in watchful arms who stood,
-And those who sate tending the beacon's light,                       _1730
-And the few sounds from that vast multitude
-Made silence more profound.--Oh, what a might
-Of human thought was cradled in that night!
-How many hearts impenetrably veiled
-Beat underneath its shade, what secret fight                         _1735
-Evil and good, in woven passions mailed,
-Waged through that silent throng--a war that never failed!
+<p><line>All slept but those in watchful arms who stood,</line>
+<line>And those who sate tending the beacon's light,</line>                        _1730
+<line>And the few sounds from that vast multitude</line>
+<line>Made silence more profound.--Oh, what a might</line>
+<line>Of human thought was cradled in that night!</line>
+<line>How many hearts impenetrably veiled</line>
+<line>Beat underneath its shade, what secret fight</line>                        _1735
+<line>Evil and good, in woven passions mailed,</line>
+<line>Waged through that silent throng--a war that never failed!</p></line>
 
 3.
-And now the Power of Good held victory.
-So, through the labyrinth of many a tent,
-Among the silent millions who did lie                                _1740
-In innocent sleep, exultingly I went;
-The moon had left Heaven desert now, but lent
-From eastern morn the first faint lustre showed
-An armed youth--over his spear he bent
-His downward face.--'A friend!' I cried aloud,                       _1745
-And quickly common hopes made freemen understood.
+<p><line>And now the Power of Good held victory.</line>
+<line>So, through the labyrinth of many a tent,</line>
+<line>Among the silent millions who did lie</line>                                 _1740
+<line>In innocent sleep, exultingly I went;</line>
+<line>The moon had left Heaven desert now, but lent</line>
+<line>From eastern morn the first faint lustre showed</line>
+<line>An armed youth--over his spear he bent</line>
+<line>His downward face.--'A friend!' I cried aloud,</line>                        _1745
+<line>And quickly common hopes made freemen understood.</p></line>
 
 4.
-I sate beside him while the morning beam
-Crept slowly over Heaven, and talked with him
-Of those immortal hopes, a glorious theme!
-Which led us forth, until the stars grew dim:                        _1750
-And all the while, methought, his voice did swim
-As if it drowned in remembrance were
-Of thoughts which make the moist eyes overbrim:
-At last, when daylight 'gan to fill the air,
-He looked on me, and cried in wonder--'Thou art here!'               _1755
+<p>I sate beside him while the morning beam</line>
+<line>Crept slowly over Heaven, and talked with him</line>
+<line>Of those immortal hopes, a glorious theme!</line>
+<line>Which led us forth, until the stars grew dim:</line>                         _1750
+<line>And all the while, <define>methought</define>, his voice did swim</line>
+<line>As if it drowned in remembrance were</line>
+<line>Of thoughts which make the moist eyes overbrim:</line>
+<line>At last, when daylight 'gan to fill the air,</line>
+<line>He looked on me, and cried in wonder--'Thou art here!'</p></line>               _1755
 
 5.
-Then, suddenly, I knew it was the youth
-In whom its earliest hopes my spirit found;
-But envious tongues had stained his spotless truth,
-And thoughtless pride his love in silence bound,
-And shame and sorrow mine in toils had wound,                        _1760
-Whilst he was innocent, and I deluded;
-The truth now came upon me, on the ground
-Tears of repenting joy, which fast intruded,
-Fell fast, and o'er its peace our mingling spirits brooded.
+<p><line>Then, suddenly, I knew it was the youth</line>
+<line>In whom its earliest hopes my spirit found;</line>
+<line>But envious tongues had stained his spotless truth,</line>
+<line>And thoughtless pride his love in silence bound,</line>
+<line>And shame and sorrow mine in toils had wound,</line>                         _1760
+<line>Whilst he was innocent, and I deluded;</line>
+<line>The truth now came upon me, on the ground</line>
+<line>Tears of repenting joy, which fast intruded,</line>
+<line>Fell fast, and o'er its peace our mingling spirits brooded.</p></line>
 
 6.
-Thus, while with rapid lips and earnest eyes                         _1765
-We talked, a sound of sweeping conflict spread
-As from the earth did suddenly arise;
-From every tent roused by that clamour dread,
-Our bands outsprung and seized their arms--we sped
-Towards the sound: our tribes were gathering far.                    _1770
-Those sanguine slaves amid ten thousand dead
-Stabbed in their sleep, trampled in treacherous war
-The gentle hearts whose power their lives had sought to spare.
+<p><line>Thus, while with rapid lips and earnest eyes</line>                          _1765
+<line>We talked, a sound of sweeping conflict spread</line>
+<line>As from the earth did suddenly arise;</line>
+<line>From every tent roused by that clamour dread,</line>
+<line>Our <define>bands</define> <define>outsprung</define> and seized their arms--we sped</line>
+<line>Towards the sound: our tribes were gathering far.</line>                     _1770
+<line>Those sanguine slaves amid ten thousand dead</line>
+<line>Stabbed in their sleep, trampled in treacherous war</line>
+<line>The gentle hearts whose power their lives had sought to spare.</p></line>
 
 7.
-Like rabid snakes, that sting some gentle child
-Who brings them food, when winter false and fair                     _1775
-Allures them forth with its cold smiles, so wild
-They rage among the camp;--they overbear
-The patriot hosts--confusion, then despair,
-Descends like night--when 'Laon!' one did cry;
-Like a bright ghost from Heaven that shout did scare                 _1780
-The slaves, and widening through the vaulted sky,
-Seemed sent from Earth to Heaven in sign of victory.
+<p><line><define>Like rabid snakes, that sting some gentle child</define></line>
+<line>Who brings them food, when winter false and fair</line>                      _1775
+<line>Allures them forth with its cold smiles, so wild</line>
+<line>They rage among the camp;--they overbear</line>
+<line>The patriot hosts--confusion, then despair,</line>
+<line>Descends like night--when 'Laon!' one did cry;</line>
+<line>Like a bright ghost from Heaven that shout did scare</line>                  _1780
+<line>The slaves, and widening through the vaulted sky,</line>
+<line>Seemed sent from Earth to Heaven in sign of victory.</p></line>
 
 8.
-In sudden panic those false murderers fled,
-Like insect tribes before the northern gale:
-But swifter still, our hosts encompassed                             _1785
-Their shattered ranks, and in a craggy vale,
-Where even their fierce despair might nought avail,
-Hemmed them around!--and then revenge and fear
-Made the high virtue of the patriots fail:
-One pointed on his foe the mortal spear--                            _1790
-I rushed before its point, and cried 'Forbear, forbear!'
+<p><line>In sudden panic those false murderers fled,</line>
+<line>Like insect tribes before the northern gale:</line>
+<line>But swifter still, our hosts encompassed</line>                             _1785
+<line>Their shattered ranks, and in a craggy vale,</line>
+<line>Where even their fierce despair might nought avail,</line>
+<line>Hemmed them around!--and then revenge and fear</line>
+<line>Made the high virtue of the patriots fail:</line>
+<line>One pointed on his foe the mortal spear--</line>                            _1790
+<line>I rushed before its point, and cried 'Forbear, forbear!'</p></line>
 
 9.
-The spear transfixed my arm that was uplifted
-In swift expostulation, and the blood
-Gushed round its point: I smiled, and--'Oh! thou gifted
-With eloquence which shall not be withstood,                         _1795
-Flow thus!' I cried in joy, 'thou vital flood,
-Until my heart be dry, ere thus the cause
-For which thou wert aught worthy be subdued--
-Ah, ye are pale,--ye weep,--your passions pause,--
-'Tis well! ye feel the truth of love's benignant laws.               _1800
+<p><line>The spear transfixed my arm that was uplifted</line>
+<line>In swift expostulation, and the blood</line>
+<line>Gushed round its point: I smiled, and--'Oh! thou gifted</line>
+<line>With eloquence which shall not be withstood,</line>                         _1795
+<line>Flow thus!' I cried in joy, 'thou vital flood,</line>
+<line>Until my heart be dry, ere thus the cause</line>
+<line>For which thou wert aught worthy be subdued--</line>
+<line>Ah, ye are pale,--ye weep,--your passions pause,--</line>
+<line>'Tis well! ye feel the truth of love's benignant laws.</p></line>_1800
 
 10.
-'Soldiers, our brethren and our friends are slain.
-Ye murdered them, I think, as they did sleep!
-Alas, what have ye done? the slightest pain
-Which ye might suffer, there were eyes to weep,
-But ye have quenched them--there were smiles to steep                _1805
-Your hearts in balm, but they are lost in woe;
-And those whom love did set his watch to keep
-Around your tents, truth's freedom to bestow,
-Ye stabbed as they did sleep--but they forgive ye now.
+<p><line>'Soldiers, our brethren and our friends are slain.</line>
+<line>Ye murdered them, I think, as they did sleep!</line>
+<line>Alas, what have ye done? the slightest pain</line>
+<line>Which ye might suffer, there were eyes to weep,</line>
+<line>But ye have quenched them--there were smiles to steep</line>                _1805
+<line>Your hearts in balm, but they are lost in woe;</line>
+<line>And those whom love did set his watch to keep</line>
+<line>Around your tents, truth's freedom to bestow,</line>
+<line>Ye stabbed as they did sleep--but they forgive ye now.</p></line>
 
 11.
-'Oh wherefore should ill ever flow from ill,                         _1810
-And pain still keener pain for ever breed?
-We all are brethren--even the slaves who kill
-For hire, are men; and to avenge misdeed
-On the misdoer, doth but Misery feed
-With her own broken heart! O Earth, O Heaven!                        _1815
-And thou, dread Nature, which to every deed
-And all that lives, or is, to be hath given,
-Even as to thee have these done ill, and are forgiven!
+<p><line>'Oh wherefore should ill ever flow from ill,</line>                         _1810
+<line>We all are brethren--even the slaves who kill</line>
+<line>Even as to thee have these done ill, and are forgiven!</line>
+<line>For hire, are men; and to avenge misdeed</line>
+<line>On the misdoer, doth but Misery feed</line>
+<line>With her own broken heart! O Earth, O Heaven!</line>                        _1815
+<line>And thou, dread Nature, which to every deed</line>
+<line>And all that lives, or is, to be hath given,</line>
+<line>And pain still keener pain for ever breed?</line>
 
 12.
-'Join then your hands and hearts, and let the past
-Be as a grave which gives not up its dead                            _1820
-To evil thoughts.'--A film then overcast
-My sense with dimness, for the wound, which bled
-Freshly, swift shadows o'er mine eyes had shed.
-When I awoke, I lay mid friends and foes,
-And earnest countenances on me shed                                  _1825
-The light of questioning looks, whilst one did close
-My wound with balmiest herbs, and soothed me to repose;
+<p><line>'Join then your hands and hearts, and let the past</line>
+<line>Be as a grave which gives not up its dead</line>                            _1820
+<line>To evil thoughts.'--A film then overcast</line>
+<line>My sense with dimness, for the wound, which bled</line>
+<line>Freshly, swift shadows o'er mine eyes had shed.</line>
+<line>When I awoke, I lay mid friends and foes,</line>
+<line>And earnest countenances on me shed</line>                                  _1825
+<line>The light of questioning looks, whilst one did close</line>
+<line>My wound with balmiest herbs, and soothed me to repose;</p></line>
 
 13.
-And one whose spear had pierced me, leaned beside
-With quivering lips and humid eyes;--and all
-Seemed like some brothers on a journey wide                          _1830
-Gone forth, whom now strange meeting did befall
-In a strange land, round one whom they might call
-Their friend, their chief, their father, for assay
-Of peril, which had saved them from the thrall
-Of death, now suffering. Thus the vast array                         _1835
-Of those fraternal bands were reconciled that day.
+<p><line>With quivering lips and humid eyes;--and all</line>
+<line>Seemed like some brothers on a journey wide</line>                          _1830
+<line>Gone forth, whom now strange meeting did befall</line>
+<line>In a strange land, round one whom they might call</line>
+<line>Their friend, their chief, their father, for assay</line>
+<line>Of peril, which had saved them from the thrall</line>
+<line>Of death, now suffering. Thus the vast array</line>                         _1835
+<line>Of those fraternal bands were reconciled that day.</p></line>
 
 14.
-Lifting the thunder of their acclamation,
-Towards the City then the multitude,
-And I among them, went in joy--a nation
-Made free by love;--a mighty brotherhood                             _1840
-Linked by a jealous interchange of good;
-A glorious pageant, more magnificent
-Than kingly slaves arrayed in gold and blood,
-When they return from carnage, and are sent
-In triumph bright beneath the populous battlement.                   _1845
+<p><line>Lifting the thunder of their acclamation,</line>
+<line>Towards the City then the multitude,</line>
+<line>And I among them, went in joy--a nation</line>
+<line>Made free by love;--a mighty brotherhood</line>                             _1840
+<line>Linked by a jealous interchange of good;</line>
+<line>A glorious pageant, more magnificent</line>
+<line>Than kingly slaves arrayed in gold and blood,</line>
+<line>When they return from carnage, and are sent</line>
+<line>In triumph bright beneath the populous battlement.</p></line>                  _1845
 
 15.
-Afar, the city-walls were thronged on high,
-And myriads on each giddy turret clung,
-And to each spire far lessening in the sky
-Bright pennons on the idle winds were hung;
-As we approached, a shout of joyance sprung                          _1850
-At once from all the crowd, as if the vast
-And peopled Earth its boundless skies among
-The sudden clamour of delight had cast,
-When from before its face some general wreck had passed.
+<p><line>Afar, the city-walls were thronged on high,</line>
+<line>And myriads on each giddy turret clung,</line>
+<line>And to each spire far lessening in the sky</line>
+<line>Bright pennons on the idle winds were hung;</line>
+<line>As we approached, a shout of joyance sprung</line>                         _1850
+<line>At once from all the crowd, as if the vast</line>
+<line>And peopled Earth its boundless skies among</line>
+<line>The sudden clamour of delight had cast,</line>
+When from before its face some general wreck had passed.</p></line>
 
 16.
-Our armies through the City's hundred gates                          _1855
-Were poured, like brooks which to the rocky lair
-Of some deep lake, whose silence them awaits,
-Throng from the mountains when the storms are there
-And, as we passed through the calm sunny air
-A thousand flower-inwoven crowns were shed,                          _1860
-The token flowers of truth and freedom fair,
-And fairest hands bound them on many a head,
-Those angels of love's heaven that over all was spread.
+<p><line>Our armies through the City's hundred gates</line>                          _1855
+<line>Were poured, like brooks which to the rocky lair</line>
+<line>Of some deep lake, whose silence them awaits,</line>
+<line>Throng from the mountains when the storms are there</line>
+<line>And, as we passed through the calm sunny air</line>
+<line>A thousand flower-inwoven crowns were shed,</line>                          _1860
+<line>The token flowers of truth and freedom fair,</line>
+<line>And fairest hands bound them on many a head,</line>
+<line>Those angels of love's heaven that over all was spread.</p></line>
 
 17.
-I trod as one tranced in some rapturous vision:
-Those bloody bands so lately reconciled,                             _1865
-Were, ever as they went, by the contrition
-Of anger turned to love, from ill beguiled,
-And every one on them more gently smiled,
-Because they had done evil:--the sweet awe
-Of such mild looks made their own hearts grow mild,                  _1870
-And did with soft attraction ever draw
-Their spirits to the love of freedom's equal law.
+<p><line>I trod as one tranced in some rapturous vision:</line>
+<line>Those bloody bands so lately reconciled,</line>                            _1865
+<line>Were, ever as they went, by the contrition</line>
+<line>Of anger turned to love, from ill beguiled,</line>
+<line>And every one on them more gently smiled,</line>
+<line>Because they had done evil:--the sweet awe</line>
+<line>Of such mild looks made their own hearts grow mild,</line>                 _1870
+<line>And did with soft attraction ever draw</line>
+<line>Their spirits to the love of freedom's equal law.</p></line>
 
 18.
-And they, and all, in one loud symphony
-My name with Liberty commingling, lifted,
-'The friend and the preserver of the free!                           _1875
-The parent of this joy!' and fair eyes gifted
-With feelings, caught from one who had uplifted
-The light of a great spirit, round me shone;
-And all the shapes of this grand scenery shifted
-Like restless clouds before the steadfast sun,--                     _1880
-Where was that Maid? I asked, but it was known of none.
+<p><line>And they, and all, in one loud symphony</line>
+<line>My name with Liberty commingling, lifted,</line>
+<line>'The friend and the preserver of the free!</line>                           _1875
+<line>The parent of this joy!' and fair eyes gifted</line>
+<line>With feelings, caught from one who had uplifted</line>
+<line>The light of a great spirit, round me shone;</line>
+<line>And all the shapes of this grand scenery shifted</line>
+<line>Like restless clouds before the steadfast sun,--</line>                     _1880
+<line>Where was that Maid? I asked, but it was known of none.</p></line>
 
 19.
-Laone was the name her love had chosen,
-For she was nameless, and her birth none knew:
-Where was Laone now?--The words were frozen
-Within my lips with fear; but to subdue                              _1885
-Such dreadful hope, to my great task was due,
-And when at length one brought reply, that she
-To-morrow would appear, I then withdrew
-To judge what need for that great throng might be,
-For now the stars came thick over the twilight sea.                  _1890
+<p><line>Laone was the name her love had chosen,</line>
+<line>For she was nameless, and her birth none knew:</line>
+<line>Where was Laone now?--The words were frozen</line>
+<line>Within my lips with fear; but to subdue</line>                              _1885
+<line>Such dreadful hope, to my great task was due,</line>
+<line>And when at length one brought reply, that she</line>
+<line>To judge what need for that great throng might be,</line>
+<line>For now the stars came thick over the twilight sea.</p></line>                  _1890
 
 20.
-Yet need was none for rest or food to care,
-Even though that multitude was passing great,
-Since each one for the other did prepare
-All kindly succour--Therefore to the gate
-Of the Imperial House, now desolate,                                 _1895
-I passed, and there was found aghast, alone,
-The fallen Tyrant!--Silently he sate
-Upon the footstool of his golden throne,
-Which, starred with sunny gems, in its own lustre shone.
+<p><line>Yet need was none for rest or food to care,</line>
+<line>Even though that multitude was passing great,</line>
+<line>Since each one for the other did prepare</line>
+<line>All kindly succour--Therefore to the gate</line>
+<line>Of the Imperial House, now desolate,</line>                                 _1895
+<line>I passed, and there was found aghast, alone,</line>
+<line>The fallen Tyrant!--Silently he sate</line>
+<line>Upon the footstool of his golden throne,</line>
+<line>Which, starred with sunny gems, in its own lustre shone.</p></line>
 
 21.
-Alone, but for one child, who led before him                         _1900
-A graceful dance: the only living thing
-Of all the crowd, which thither to adore him
-Flocked yesterday, who solace sought to bring
-In his abandonment!--She knew the King
-Had praised her dance of yore, and now she wove                      _1905
-Its circles, aye weeping and murmuring
-Mid her sad task of unregarded love,
-That to no smiles it might his speechless sadness move.
+<p><line>Alone, but for one child, who led before him</line>                         _1900
+<line>A graceful dance: the only living thing</line>
+<line>Of all the crowd, which thither to adore him</line>
+<line>Flocked yesterday, who solace sought to bring</line>
+<line>In his abandonment!--She knew the King</line>
+<line>Had praised her dance of yore, and now she wove</line>                      _1905
+<line>Its circles, aye weeping and murmuring</line>
+<line>Mid her sad task of unregarded love,</line>
+<line>That to no smiles it might his speechless sadness move.</p></line>
 
 22.
-She fled to him, and wildly clasped his feet
-When human steps were heard:--he moved nor spoke,                    _1910
-Nor changed his hue, nor raised his looks to meet
-The gaze of strangers--our loud entrance woke
-The echoes of the hall, which circling broke
-The calm of its recesses,--like a tomb
-Its sculptured walls vacantly to the stroke                          _1915
-Of footfalls answered, and the twilight's gloom
-Lay like a charnel's mist within the radiant dome.
-
+<p><line>She fled to him, and wildly clasped his feet</line>
+<line>When human steps were heard:--he moved nor spoke,</line>                    _1910
+Nor changed his hue, nor raised his looks to meet</line>
+The gaze of strangers--our loud entrance woke</line>
+The echoes of the hall, which circling broke</line>
+The calm of its recesses,--like a tomb</line>
+Its sculptured walls vacantly to the stroke</line>                         _1915
+Of footfalls answered, and the twilight's gloom</line>
+Lay like a charnel's mist within the radiant dome.</p></line>
+<line>
 23.
-The little child stood up when we came nigh;
-Her lips and cheeks seemed very pale and wan,
-But on her forehead, and within her eye                              _1920
-Lay beauty, which makes hearts that feed thereon
-Sick with excess of sweetness; on the throne
-She leaned;--the King, with gathered brow, and lips
-Wreathed by long scorn, did inly sneer and frown
-With hue like that when some great painter dips                      _1925
-His pencil in the gloom of earthquake and eclipse.
+<p><line>The little child stood up when we came nigh;</line>
+<line><line>Her lips and cheeks seemed very pale and wan,</line>
+<line><line>But on her forehead, and within her eye </line>                             _1920
+<line>Lay beauty, which makes hearts that feed thereon</line>
+<line>Sick with excess of sweetness; on the throne</line>
+<line>She leaned;--the King, with gathered brow, and lips</line>
+<line>Wreathed by long scorn, did inly sneer and frown</line>
+<line>With hue like that when some great painter dips</line>                    _1925
+<line>His pencil in the gloom of earthquake and eclipse.</p></line>
 
 24.
-She stood beside him like a rainbow braided
-Within some storm, when scarce its shadows vast
-From the blue paths of the swift sun have faded;
-A sweet and solemn smile, like Cythna's, cast                        _1930
-One moment's light, which made my heart beat fast,
-O'er that child's parted lips--a gleam of bliss,
-A shade of vanished days,--as the tears passed
-Which wrapped it, even as with a father's kiss
-I pressed those softest eyes in trembling tenderness.                _1935
+<p><line>She stood beside him like a rainbow braided</line>
+<line>Within some storm, when scarce its shadows vast</line>
+<line>From the blue paths of the swift sun have faded;</line>
+<line>A sweet and solemn smile, like Cythna's, cast</line>                        _1930
+<line>One moment's light, which made my heart beat fast,</line>
+<line>O'er that child's parted lips--a gleam of bliss,</line>
+<line>A shade of vanished days,--as the tears passed</line>
+<line>Which wrapped it, even as with a father's kiss</line>
+<line>I pressed those softest eyes in trembling tenderness.</p></line>                _1935
 
 25.
-The sceptred wretch then from that solitude
-I drew, and, of his change compassionate,
-With words of sadness soothed his rugged mood.
-But he, while pride and fear held deep debate,
-With sullen guile of ill-dissembled hate                             _1940
-Glared on me as a toothless snake might glare:
-Pity, not scorn I felt, though desolate
-The desolator now, and unaware
-The curses which he mocked had caught him by the hair.
+<p><line>The sceptred wretch then from that solitude</line>
+<line>I drew, and, of his change compassionate,</line>
+<line>With words of sadness soothed his rugged mood.</line>
+<line>But he, while pride and fear held deep debate,</line>
+<line>With sullen guile of ill-dissembled hate</line>                          _1940
+<line>Glared on me as a toothless snake might glare:</line>
+<line>Pity, not scorn I felt, though desolate</line>
+<line>The desolator now, and unaware</line>
+<line>The curses which he mocked had caught him by the hair.</p></line>
 
 26.
-I led him forth from that which now might seem                       _1945
-A gorgeous grave: through portals sculptured deep
-With imagery beautiful as dream
-We went, and left the shades which tend on sleep
-Over its unregarded gold to keep
-Their silent watch.--The child trod faintingly,                      _1950
-And as she went, the tears which she did weep
-Glanced in the starlight; wildered seemed she,
-And, when I spake, for sobs she could not answer me.
+<p><line>I led him forth from that which now might seem  </line>                     _1945
+<line>A gorgeous grave: through portals sculptured deep</line>
+<line>We went, and left the shades which tend on sleep</line>
+<line>Over its unregarded gold to keep</line>
+<line>Their silent watch.--The child trod faintingly,</line>                      _1950
+<line>And as she went, the tears which she did weep</line>
+<line>Glanced in the starlight; wildered seemed she,</line>
+<line>And, when I spake, for sobs she could not answer me.</p></line>
 
 27.
-At last the tyrant cried, 'She hungers, slave!
-Stab her, or give her bread!'--It was a tone                         _1955
-Such as sick fancies in a new-made grave
-Might hear. I trembled, for the truth was known;
-He with this child had thus been left alone,
-And neither had gone forth for food,--but he
-In mingled pride and awe cowered near his throne,                    _1960
-And she a nursling of captivity
-Knew nought beyond those walls, nor what such change might be.
+<p><line>Stab her, or give her bread!'--It was a tone</line>                         _1955
+<line>Might hear. I trembled, for the truth was known;</line>
+<line>He with this child had thus been left alone,</line>
+<line>And neither had gone forth for food,--but he</line>
+<line>In mingled pride and awe cowered near his throne,</line>                  _1960
+<line>And she a nursling of captivity</line>
+<line>Knew nought beyond those walls, nor what such change might be.</p></line>
 
 28.
-And he was troubled at a charm withdrawn
-Thus suddenly; that sceptres ruled no more--
-That even from gold the dreadful strength was gone,                  _1965
-Which once made all things subject to its power--
-Such wonder seized him, as if hour by hour
-The past had come again; and the swift fall
-Of one so great and terrible of yore,
-To desolateness, in the hearts of all                                _1970
-Like wonder stirred, who saw such awful change befall.
+<p><line>And he was troubled at a charm withdrawn</line>
+<line>Thus suddenly; that sceptres ruled no more--</line>
+<line>That even from gold the dreadful strength was gone,</line>                _1965
+<line>Which once made all things subject to its power--</line>
+<line>Such wonder seized him, as if hour by hour</line>
+<line>The past had come again; and the swift fall</line>
+<line>Of one so great and terrible of yore,</line>
+<line>To desolateness, in the hearts of all</line>                                _1970
+<line>Like wonder stirred, who saw such awful change befall.</p></line>
 
 29.
-A mighty crowd, such as the wide land pours
-Once in a thousand years, now gathered round
-The fallen tyrant;--like the rush of showers
-Of hail in spring, pattering along the ground,                       _1975
-Their many footsteps fell, else came no sound
-From the wide multitude: that lonely man
-Then knew the burden of his change, and found,
-Concealing in the dust his visage wan,
-Refuge from the keen looks which through his bosom ran.              _1980
+<p><line>A mighty crowd, such as the wide land pours</line>
+<line>Once in a thousand years, now gathered round</line>
+<line>The fallen tyrant;--like the rush of showers</line>
+<line>Of hail in spring, pattering along the ground,</line>                     _1975
+<line>Their many footsteps fell, else came no sound</line>
+<line>From the wide multitude: that lonely man</line>
+<line>Then knew the burden of his change, and found,</line>
+<line>Concealing in the dust his visage wan,</line>
+Refuge from the keen looks which through his bosom ran.</p></line>              _1980
 
 30.
-And he was faint withal: I sate beside him
-Upon the earth, and took that child so fair
-From his weak arms, that ill might none betide him
-Or her;--when food was brought to them, her share
-To his averted lips the child did bear,                              _1985
-But, when she saw he had enough, she ate
-And wept the while;--the lonely man's despair
-Hunger then overcame, and of his state
-Forgetful, on the dust as in a trance he sate.
+<p>And he was faint withal: I sate beside him</line>
+<line>Upon the earth, and took that child so fair</line>
+<line>From his weak arms, that ill might none betide him</line>
+<line>Or her;--when food was brought to them, her share</line>
+<line>To his averted lips the child did bear,</line>                              _1985
+<line>But, when she saw he had enough, she ate</line>
+<line>And wept the while;--the lonely man's despair</line>
+<line>Hunger then overcame, and of his state</line>
+<line>Forgetful, on the dust as in a trance he sate.</p></line>
 
 31.
-Slowly the silence of the multitudes                                 _1990
-Passed, as when far is heard in some lone dell
-The gathering of a wind among the woods--
-'And he is fallen!' they cry, 'he who did dwell
-Like famine or the plague, or aught more fell
-Among our homes, is fallen! the murderer                             _1995
-Who slaked his thirsting soul as from a well
-Of blood and tears with ruin! he is here!
-Sunk in a gulf of scorn from which none may him rear!'
+<p><line>Slowly the silence of the multitudes</line>                                 _1990
+<line>Passed, as when far is heard in some lone dell</line>
+<line>The gathering of a wind among the woods--</line>
+<line>'And he is fallen!' they cry, 'he who did dwell</line>
+<line>Like famine or the plague, or aught more fell</line>
+<line>Among our homes, is fallen! the murderer</line>                             _1995
+<line>Who slaked his thirsting soul as from a well</line>
+<line>Of blood and tears with ruin! he is here!</line>
+<line>Sunk in a gulf of scorn from which none may him rear!'</p></line>
 
 32.
-Then was heard--'He who judged let him be brought
-To judgement! blood for blood cries from the soil                    _2000
-On which his crimes have deep pollution wrought!
-Shall Othman only unavenged despoil?
-Shall they who by the stress of grinding toil
-Wrest from the unwilling earth his luxuries,
-Perish for crime, while his foul blood may boil,                     _2005
-Or creep within his veins at will?--Arise!
-And to high justice make her chosen sacrifice!'
+<p><line>Then was heard--'He who judged let him be brought</line>
+<line>To judgement! blood for blood cries from the soil</line>                    _2000
+<line>On which his crimes have deep pollution wrought!</line>
+<line>Shall Othman only unavenged despoil?</line>
+<line>Shall they who by the stress of grinding toil</line>
+<line>Wrest from the unwilling earth his luxuries,</line>
+<line>Perish for crime, while his foul blood may boil,</line>                     _2005
+<line>Or creep within his veins at will?--Arise!</line>
+And to high justice make her chosen sacrifice!'</p></line>
 
 33.
-'What do ye seek? what fear ye,' then I cried,
-Suddenly starting forth, 'that ye should shed
-The blood of Othman?--if your hearts are tried                       _2010
-In the true love of freedom, cease to dread
-This one poor lonely man--beneath Heaven spread
-In purest light above us all, through earth--
-Maternal earth, who doth her sweet smiles shed
-For all, let him go free; until the worth                            _2015
-Of human nature win from these a second birth.
+<p><line>'What do ye seek? what fear ye,' then I cried,</line>
+<line>Suddenly starting forth, 'that ye should shed</line>
+<line>The blood of Othman?--if your hearts are tried</line>                      _2010
+<line>In the true love of freedom, cease to dread</line>
+<line>This one poor lonely man--beneath Heaven spread</line>
+<line>In purest light above us all, through earth--</line>
+<line>Maternal earth, who doth her sweet smiles shed</line>
+<line>For all, let him go free; until the worth</line>                            _2015
+<line>Of human nature win from these a second birth.</p></line>
 
 34.
-'What call ye "justice"? Is there one who ne'er
-In secret thought has wished another's ill?--
-Are ye all pure? Let those stand forth who hear
-And tremble not. Shall they insult and kill,                         _2020
-If such they be? their mild eyes can they fill
-With the false anger of the hypocrite?
-Alas, such were not pure!--the chastened will
-Of virtue sees that justice is the light
-Of love, and not revenge, and terror and despite.'                   _2025
+<p><line>'What call ye "justice"? Is there one who ne'er</line>
+<line>In secret thought has wished another's ill?--</line>
+<line>Are ye all pure? Let those stand forth who hear</line>
+<line>And tremble not. Shall they insult and kill,</line>               _2020
+<line>If such they be? their mild eyes can they fill</line>
+<line>With the false anger of the hypocrite?</line>
+<line>Alas, such were not pure!--the chastened will</line>
+<line>Of virtue sees that justice is the light</line>
+<line>Of love, and not revenge, and terror and despite.'</p></line>                 _2025
 
 35.
-The murmur of the people, slowly dying,
-Paused as I spake, then those who near me were,
-Cast gentle looks where the lone man was lying
-Shrouding his head, which now that infant fair
-Clasped on her lap in silence;--through the air                      _2030
-Sobs were then heard, and many kissed my feet
-In pity's madness, and to the despair
-Of him whom late they cursed, a solace sweet
-His very victims brought--soft looks and speeches meet.
+<p><line>The murmur of the people, slowly dying,</line>
+<line>Paused as I spake, then those who near me were,</line>
+<line>Cast gentle looks where the lone man was lying</line>
+<line>Shrouding his head, which now that infant fair</line>
+<line>Clasped on her lap in silence;--through the air</line>                  _2030
+<line>Sobs were then heard, and many kissed my feet</line>
+<line>In pity's madness, and to the despair</line>
+<line>Of him whom late they cursed, a solace sweet</line>
+<line>His very victims brought--soft looks and speeches meet.</p></line>
 
 36.
-Then to a home for his repose assigned,                              _2035
-Accompanied by the still throng, he went
-In silence, where, to soothe his rankling mind,
-Some likeness of his ancient state was lent;
-And if his heart could have been innocent
-As those who pardoned him, he might have ended                       _2040
-His days in peace; but his straight lips were bent,
-Men said, into a smile which guile portended,
-A sight with which that child like hope with fear was blended.
+<p><line>Then to a home for his repose assigned,</line>                              _2035
+<line>Accompanied by the still throng, he went</line>
+<line>In silence, where, to soothe his rankling mind,</line>
+<line>Some likeness of his ancient state was lent;</line>
+<line>And if his heart could have been innocent</line>
+<line>As those who pardoned him, he might have ended</line>                       _2040
+<line>His days in peace; but his straight lips were bent,</line>
+<line>Men said, into a smile which guile portended,</line>
+<line>A sight with which that child like hope with fear was blended.</p></line>
 
 37.
-'Twas midnight now, the eve of that great day
-Whereon the many nations at whose call                               _2045
-The chains of earth like mist melted away,
-Decreed to hold a sacred Festival,
-A rite to attest the equality of all
-Who live. So to their homes, to dream or wake
-All went. The sleepless silence did recall                           _2050
-Laone to my thoughts, with hopes that make
-The flood recede from which their thirst they seek to slake.
+<p><line>'Twas midnight now, the eve of that great day</line>
+<line>Whereon the many nations at whose call</line>                               _2045
+<line><define>The chains of earth like mist melted away,<define></line>
+<line>Decreed to hold a sacred Festival,</line>
+<line>A rite to attest the equality of all</line>
+<line>Who live. So to their homes, to dream or wake</line>
+<line>All went. The sleepless silence did recall</line>                           _2050
+<line>Laone to my thoughts, with hopes that make</line>
+<line>The flood recede from which their thirst they seek to slake.</p></line>
 
 38.
-The dawn flowed forth, and from its purple fountains
-I drank those hopes which make the spirit quail,
-As to the plain between the misty mountains                          _2055
-And the great City, with a countenance pale,
-I went:--it was a sight which might avail
-To make men weep exulting tears, for whom
-Now first from human power the reverend veil
-Was torn, to see Earth from her general womb                         _2060
-Pour forth her swarming sons to a fraternal doom:
+<p><line>The dawn flowed forth, and from its purple fountains</line>
+<line>I drank those hopes which make the spirit quail,</line>
+<line>As to the plain between the misty mountains</line>                        _2055
+<line>And the great City, with a countenance pale,</line>
+<line>I went:--it was a sight which might avail</line>
+<line>To make men weep exulting tears, for whom</line>
+<line>Now first from human power the reverend veil</line>
+<line>Was torn, <define>to see Earth from her general womb</define></line>                      _2060
+<line>Pour forth her swarming sons to a fraternal doom:</p></line>
 
 39.
-To see, far glancing in the misty morning,
-The signs of that innumerable host;
-To hear one sound of many made, the warning
-Of Earth to Heaven from its free children tossed,                    _2065
-While the eternal hills, and the sea lost
-In wavering light, and, starring the blue sky
-The city's myriad spires of gold, almost
-With human joy made mute society--
-Its witnesses with men who must hereafter be.                        _2070
+<p><line>To see, far glancing in the misty morning,</line>
+<line>The signs of that innumerable host;</line>
+<line>To hear one sound of many made, the warning</line>
+<line>Of Earth to Heaven from its free children tossed, </line>                   _2065
+<line>While the eternal hills, and the sea lost</line>
+<line>In wavering light, and, starring the blue sky</line>
+<line>The city's myriad spires of gold, almost</line>
+<line>With human joy made mute society--</line>
+<line>Its witnesses with men who must hereafter be.</p>  </line>                      _2070
 
 40.
-To see, like some vast island from the Ocean,
-The Altar of the Federation rear
-Its pile i' the midst; a work, which the devotion
-Of millions in one night created there,
-Sudden as when the moonrise makes appear                             _2075
-Strange clouds in the east; a marble pyramid
-Distinct with steps: that mighty shape did wear
-The light of genius; its still shadow hid
-Far ships: to know its height the morning mists forbid!
+<p><line>To see, like some vast island from the Ocean,</line>
+<line><define>The Altar of the Federation rear</line>
+<line>Its pile i' the midst</define>; a work, which the devotion</line>
+<line>Of millions in one night created there,</line>
+<line>Sudden as when the moonrise makes appear       </line>                      _2075
+<line>Strange clouds in the east; a marble pyramid</line>
+<line>Distinct with steps: that mighty shape did wear</line>
+<line>The light of genius; its still shadow hid</line>
+<line>Far ships: to know its height the morning mists forbid!</p></line>
 
 41.
-To hear the restless multitudes for ever                             _2080
-Around the base of that great Altar flow,
-As on some mountain-islet burst and shiver
-Atlantic waves; and solemnly and slow
-As the wind bore that tumult to and fro,
-To feel the dreamlike music, which did swim                          _2085
-Like beams through floating clouds on waves below
-Falling in pauses, from that Altar dim,
-As silver-sounding tongues breathed an aerial hymn.
+<p><line>To hear the restless multitudes for ever   </line>                          _2080
+<line>Around the base of that great Altar flow,</line>
+<line>As on some mountain-islet burst and shiver</line>
+<line>Atlantic waves; and solemnly and slow</line>
+<line>As the wind bore that tumult to and fro,</line>
+To feel the dreamlike music, which did swim   </line>                       _2085
+<line><define>Like beams through floating clouds on waves below<define></line>
+Falling in pauses, from that Altar dim,</line>
+As silver-sounding tongues breathed an aerial hymn.</p></line>
 
 42.
-To hear, to see, to live, was on that morn
-Lethean joy! so that all those assembled                             _2090
-Cast off their memories of the past outworn;
-Two only bosoms with their own life trembled,
-And mine was one,--and we had both dissembled;
-So with a beating heart I went, and one,
-Who having much, covets yet more, resembled;                         _2095
-A lost and dear possession, which not won,
-He walks in lonely gloom beneath the noonday sun.
+<p>To hear, to see, to live, was on that morn</line>
+<line><define>Lethean joy</define>! so that all those assembled </line>                _2090
+Cast off their memories of the past outworn;</line>
+<line>Two only bosoms with their own life trembled,</line>
+<line>And mine was one,--and we had both dissembled;</line>
+<line>So with a beating heart I went, and one,</line>
+<line>Who having much, covets yet more, resembled;         </line>                _2095
+<line>A lost and dear possession, which not won,</line>
+<line>He walks in lonely gloom beneath the noonday sun.</p></line>
 
 43.
-To the great Pyramid I came: its stair
-With female choirs was thronged: the loveliest
-Among the free, grouped with its sculptures rare;                    _2100
-As I approached, the morning's golden mist,
-Which now the wonder-stricken breezes kissed
-With their cold lips, fled, and the summit shone
-Like Athos seen from Samothracia, dressed
-In earliest light, by vintagers, and one                             _2105
-Sate there, a female Shape upon an ivory throne:
+<p><line>To the great Pyramid I came: its stair</line>
+<line>With female choirs was thronged: the loveliest</line>
+<line>Among the free, grouped with its sculptures rare;   </line>                 _2100
+<line>As I approached, the morning's golden mist,</line>
+<line>Which now the wonder-stricken breezes kissed</line>
+<line>With their cold lips, fled, and the summit shone</line>
+<line>Like Athos seen from Samothracia, dressed</line>
+<line>In earliest light, by vintagers, and one      </line>                       _2105
+<line>Sate there, a female Shape upon an ivory throne:</p></line>
 
 44.
-A Form most like the imagined habitant
+<p><line>A Form most like the imagined habitant
 Of silver exhalations sprung from dawn,
 By winds which feed on sunrise woven, to enchant
 The faiths of men: all mortal eyes were drawn,                       _2110
@@ -483,10 +493,10 @@ As famished mariners through strange seas gone
 Gaze on a burning watch-tower, by the light
 Of those divinest lineaments--alone
 With thoughts which none could share, from that fair sight
-I turned in sickness, for a veil shrouded her countenance bright.    _2115
+<line>I turned in sickness, for a veil shrouded her countenance bright.</p></line>    _2115
 
 45.
-And neither did I hear the acclamations,
+<p><line>And neither did I hear the acclamations,
 Which from brief silence bursting, filled the air
 With her strange name and mine, from all the nations
 Which we, they said, in strength had gathered there
@@ -494,10 +504,10 @@ From the sleep of bondage; nor the vision fair                       _2120
 Of that bright pageantry beheld,--but blind
 And silent, as a breathing corpse did fare,
 Leaning upon my friend, till like a wind
-To fevered cheeks, a voice flowed o'er my troubled mind.
+To fevered cheeks, a voice flowed o'er my troubled mind.</p></line>
 
 46.
-Like music of some minstrel heavenly gifted,                         _2125
+<p><line>Like music of some minstrel heavenly gifted,                         _2125
 To one whom fiends enthral, this voice to me;
 Scarce did I wish her veil to be uplifted,
 I was so calm and joyous.--I could see
@@ -505,10 +515,10 @@ The platform where we stood, the statues three
 Which kept their marble watch on that high shrine,                   _2130
 The multitudes, the mountains, and the sea;
 As when eclipse hath passed, things sudden shine
-To men's astonished eyes most clear and crystalline.
+To men's astonished eyes most clear and crystalline.</p></line>
 
 47.
-At first Laone spoke most tremulously:
+<p><line>At first Laone spoke most tremulously:
 But soon her voice the calmness which it shed                        _2135
 Gathered, and--'Thou art whom I sought to see,
 And thou art our first votary here,' she said:
@@ -516,10 +526,10 @@ And thou art our first votary here,' she said:
 And of all those on the wide earth who breathe,
 Thou dost resemble him alone--I spread                               _2140
 This veil between us two that thou beneath
-Shouldst image one who may have been long lost in death.
+Shouldst image one who may have been long lost in death.</p></line>
 
 48.
-'For this wilt thou not henceforth pardon me?
+<p><line>'For this wilt thou not henceforth pardon me?
 Yes, but those joys which silence well requite
 Forbid reply;--why men have chosen me                                _2145
 To be the Priestess of this holiest rite
@@ -527,10 +537,10 @@ I scarcely know, but that the floods of light
 Which flow over the world, have borne me hither
 To meet thee, long most dear; and now unite
 Thine hand with mine, and may all comfort wither                     _2150
-From both the hearts whose pulse in joy now beat together,
+From both the hearts whose pulse in joy now beat together,</p></line>
 
 49.
-'If our own will as others' law we bind,
+<p><line>'If our own will as others' law we bind,
 If the foul worship trampled here we fear;
 If as ourselves we cease to love our kind!'--
 She paused, and pointed upwards--sculptured there                    _2155
@@ -538,10 +548,10 @@ Three shapes around her ivory throne appear;
 One was a Giant, like a child asleep
 On a loose rock, whose grasp crushed, as it were
 In dream, sceptres and crowns; and one did keep
-Its watchful eyes in doubt whether to smile or weep;                 _2160
+Its watchful eyes in doubt whether to smile or weep;</p></line>                 _2160
 
 50.
-A Woman sitting on the sculptured disk
+<p><line>A Woman sitting on the sculptured disk
 Of the broad earth, and feeding from one breast
 A human babe and a young basilisk;
 Her looks were sweet as Heaven's when loveliest
@@ -549,10 +559,10 @@ In Autumn eves. The third Image was dressed                          _2165
 In white wings swift as clouds in winter skies;
 Beneath his feet, 'mongst ghastliest forms, repressed
 Lay Faith, an obscene worm, who sought to rise,
-While calmly on the Sun he turned his diamond eyes.
+While calmly on the Sun he turned his diamond eyes.</p></line>
 
 51.
-Beside that Image then I sate, while she                             _2170
+<p><line>Beside that Image then I sate, while she                             _2170
 Stood, mid the throngs which ever ebbed and flowed,
 Like light amid the shadows of the sea
 Cast from one cloudless star, and on the crowd
@@ -562,11 +572,10 @@ Of the great Image, as o'er Heaven it glode,
 That rite had place; it ceased when sunset's blaze
 Burned o'er the isles. All stood in joy and deep amaze--
 --When in the silence of all spirits there
-Laone's voice was felt, and through the air                          _2180
-Her thrilling gestures spoke, most eloquently fair:--
+<line><character><define>Laone's</character> voice was felt</define>, and through the air                          _2180
+Her thrilling gestures spoke, most eloquently fair:--</p></line>
 
-51.1.
-'Calm art thou as yon sunset! swift and strong
+<p><line>'Calm art thou as yon sunset! swift and strong
 As new-fledged Eagles, beautiful and young,
 That float among the blinding beams of morning;
 And underneath thy feet writhe Faith, and Folly,                     _2185
@@ -580,10 +589,10 @@ Like ten thousand clouds which flow
 With one wide wind as it flies!--
 Wisdom! thy irresistible children rise
 To hail thee, and the elements they chain                            _2195
-And their own will, to swell the glory of thy train.
+And their own will, to swell the glory of thy train.</p></line>
 
 51.2.
-'O Spirit vast and deep as Night and Heaven!
+<p><line>'O Spirit vast and deep as Night and Heaven!
 Mother and soul of all to which is given
 The light of life, the loveliness of being,
 Lo! thou dost re-ascend the human heart,                             _2200
@@ -597,10 +606,10 @@ To mutual smiles, a drainless treasure,
 Descends amidst us;--Scorn and Hate,
 Revenge and Selfishness are desolate--
 A hundred nations swear that there shall be                          _2210
-Pity and Peace and Love, among the good and free!
+Pity and Peace and Love, among the good and free!</p></line>
 
 51.3.
-'Eldest of things, divine Equality!
+<p><line>'Eldest of things, divine Equality!
 Wisdom and Love are but the slaves of thee,
 The Angels of thy sway, who pour around thee
 Treasures from all the cells of human thought,                       _2215
@@ -614,10 +623,10 @@ All blasts of fragrance into one,
 Comest upon the paths of men!--
 Earth bares her general bosom to thy ken,
 And all her children here in glory meet                              _2225
-To feed upon thy smiles, and clasp thy sacred feet.
+To feed upon thy smiles, and clasp thy sacred feet.</p></line>
 
 51.4
-'My brethren, we are free! the plains and mountains,
+<p><line>'My brethren, we are free! the plains and mountains,
 The gray sea-shore, the forests and the fountains,
 Are haunts of happiest dwellers;--man and woman,
 Their common bondage burst, may freely borrow                        _2230
@@ -631,10 +640,10 @@ And whose beams are joys that lie
 In blended hearts, now holds dominion;
 The dawn of mind, which upwards on a pinion
 Borne, swift as sunrise, far illumines space,                        _2240
-And clasps this barren world in its own bright embrace!
+And clasps this barren world in its own bright embrace!</p></line>
 
 51.5
-'My brethren, we are free! The fruits are glowing
+<p><line>'My brethren, we are free! The fruits are glowing
 Beneath the stars, and the night-winds are flowing
 O'er the ripe corn, the birds and beasts are dreaming--
 Never again may blood of bird or beast                               _2245
@@ -648,10 +657,10 @@ Seeking their food or refuge there.
 Our toil from thought all glorious forms shall cull,
 To make this Earth, our home, more beautiful,
 And Science, and her sister Poesy,                                   _2255
-Shall clothe in light the fields and cities of the free!
+Shall clothe in light the fields and cities of the free!</p></line>
 
 51.6
-'Victory, Victory to the prostrate nations!
+'<p><line>Victory, Victory to the prostrate nations!
 Bear witness Night, and ye mute Constellations
 Who gaze on us from your crystalline cars!
 Thoughts have gone forth whose powers can sleep no more!             _2260
@@ -665,43 +674,40 @@ Shall soon partake our high emotions:
 Kings shall turn pale! Almighty Fear,
 The Fiend-God, when our charmed name he hear,
 Shall fade like shadow from his thousand fanes,                      _2270
-While Truth with Joy enthroned o'er his lost empire reigns!'
+While Truth with Joy enthroned o'er his lost empire reigns!'</p></line>
 
 51.52.
-Ere she had ceased, the mists of night entwining
-Their dim woof, floated o'er the infinite throng;
+<p><line>Their dim woof, floated o'er the infinite throng;
 She, like a spirit through the darkness shining,
 In tones whose sweetness silence did prolong,                        _2275
 As if to lingering winds they did belong,
 Poured forth her inmost soul: a passionate speech
 With wild and thrilling pauses woven among,
 Which whoso heard was mute, for it could teach
-To rapture like her own all listening hearts to reach.               _2280
+To rapture like her own all listening hearts to reach.</p></line>               _2280
 
 53.
-Her voice was as a mountain stream which sweeps
-The withered leaves of Autumn to the lake,
+<p><line>The withered leaves of Autumn to the lake,
 And in some deep and narrow bay then sleeps
 In the shadow of the shores; as dead leaves wake,
 Under the wave, in flowers and herbs which make                      _2285
 Those green depths beautiful when skies are blue,
 The multitude so moveless did partake
 Such living change, and kindling murmurs flew
-As o'er that speechless calm delight and wonder grew.
+As o'er that speechless calm delight and wonder grew.</p></line>
 
 54.
-Over the plain the throngs were scattered then                       _2290
-In groups around the fires, which from the sea
+<p><line>In groups around the fires, which from the sea
 Even to the gorge of the first mountain-glen
 Blazed wide and far: the banquet of the free
 Was spread beneath many a dark cypress-tree,
 Beneath whose spires, which swayed in the red flame,                 _2295
 Reclining, as they ate, of Liberty,
 And Hope, and Justice, and Laone's name,
-Earth's children did a woof of happy converse frame.
+Earth's children did a woof of happy converse frame.</p></line>
 
 55.
-Their feast was such as Earth, the general mother,
+<p><line>Their feast was such as Earth, the general mother,
 Pours from her fairest bosom, when she smiles                        _2300
 In the embrace of Autumn;--to each other
 As when some parent fondly reconciles
@@ -709,10 +715,10 @@ Her warring children, she their wrath beguiles
 With her own sustenance, they relenting weep:
 Such was this Festival, which from their isles                       _2305
 And continents, and winds, and oceans deep,
-All shapes might throng to share, that fly, or walk or creep,--
+All shapes might throng to share, that fly, or walk or creep,--</p></line>
 
 56.
-Might share in peace and innocence, for gore
+<p><line>Might share in peace and innocence, for gore
 Or poison none this festal did pollute,
 But, piled on high, an overflowing store                             _2310
 Of pomegranates and citrons, fairest fruit,
@@ -720,21 +726,20 @@ Melons, and dates, and figs, and many a root
 Sweet and sustaining, and bright grapes ere yet
 Accursed fire their mild juice could transmute
 Into a mortal bane, and brown corn set                               _2315
-In baskets; with pure streams their thirsting lips they wet.
+In baskets; with pure streams their thirsting lips they wet.</p></line>
 
 57.
-Laone had descended from the shrine,
-And every deepest look and holiest mind
+<p><line>And every deepest look and holiest mind
 Fed on her form, though now those tones divine
 Were silent as she passed; she did unwind                            _2320
 Her veil, as with the crowds of her own kind
 She mixed; some impulse made my heart refrain
 From seeking her that night, so I reclined
 Amidst a group, where on the utmost plain
-A festal watchfire burned beside the dusky main.                     _2325
+A festal watchfire burned beside the dusky main.</p> </line>                    _2325
 
 58.
-And joyous was our feast; pathetic talk,
+<p><line>And joyous was our feast; pathetic talk,
 And wit, and harmony of choral strains,
 While far Orion o'er the waves did walk
 That flow among the isles, held us in chains
@@ -742,4 +747,8 @@ Of sweet captivity which none disdains                               _2330
 Who feels; but when his zone grew dim in mist
 Which clothes the Ocean's bosom, o'er the plains
 The multitudes went homeward, to their rest,
-Which that delightful day with its own shadow blessed.
+Which that delightful day with its own shadow blessed.</p></line>
+
+</body>
+ </text>
+</xml>
