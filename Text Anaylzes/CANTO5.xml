@@ -16,7 +16,7 @@ TO MARY -- --.</chapterQuote>
 <chapter n="5">CANTO 5.</chapter>
 
 <body>
-1.
+1.<linegroup ="stanza">
 <p><line>Over the utmost hill at length I sped,</line>                               _1720
 <line>A snowy steep:--the moon was hanging low</line>
 <line>Over the Asian mountains, and outspread</line>
@@ -26,7 +26,7 @@ TO MARY -- --.</chapterQuote>
 <line>Like stars in a <define>sublunar</define> sky did glow,</line>
 <line>And fires blazed far amid the scattered camps,</line>
 <line>Like springs of flame, which burst where'er swift Earthquake stamps.</p></line>
-
+</linegroup>
 2.
 <p><line>All slept but those in watchful arms who stood,</line>
 <line>And those who sate tending the beacon's light,</line>                        _1730
@@ -68,7 +68,7 @@ TO MARY -- --.</chapterQuote>
 <line>And shame and sorrow mine in toils had wound,</line>                         _1760
 <line>Whilst he was innocent, and I deluded;</line>
 <line>The truth now came upon me, on the ground</line>
-<line>Tears of repenting joy, which fast intruded,</line>
+<line>Tears of <note>repenting joy</note>, which fast intruded,</line>
 <line>Fell fast, and o'er its peace our mingling spirits brooded.</p></line>
 
 6.
@@ -128,9 +128,9 @@ TO MARY -- --.</chapterQuote>
 
 11.
 <p><line>'Oh wherefore should ill ever flow from ill,</line>                         _1810
-<line>We all are brethren--even the slaves who kill</line>
+<line><note>We all are brethren--even the slaves who kill</line>
 <line>Even as to thee have these done ill, and are forgiven!</line>
-<line>For hire, are men; and to avenge misdeed</line>
+<line>For hire, are men;</note> and to avenge misdeed</line>
 <line>On the misdoer, doth but Misery feed</line>
 <line>With her own broken heart! O Earth, O Heaven!</line>                        _1815
 <line>And thou, dread Nature, which to every deed</line>
@@ -404,7 +404,7 @@ And to high justice make her chosen sacrifice!'</p></line>
 <line>And if his heart could have been innocent</line>
 <line>As those who pardoned him, he might have ended</line>                       _2040
 <line>His days in peace; but his straight lips were bent,</line>
-<line>Men said, into a smile which guile portended,</line>
+<line>Men said, into a smile which <define>guile</define> portended,</line>
 <line>A sight with which that child like hope with fear was blended.</p></line>
 
 37.
@@ -739,15 +739,15 @@ Amidst a group, where on the utmost plain
 A festal watchfire burned beside the dusky main.</p> </line>                    _2325
 
 58.
-<p><line>And joyous was our feast; pathetic talk,
-And wit, and harmony of choral strains,
-While far Orion o'er the waves did walk
-That flow among the isles, held us in chains
-Of sweet captivity which none disdains                               _2330
-Who feels; but when his zone grew dim in mist
-Which clothes the Ocean's bosom, o'er the plains
-The multitudes went homeward, to their rest,
-Which that delightful day with its own shadow blessed.</p></line>
+<p><line>And joyous was our feast; pathetic talk,<line>
+<line>And wit, and harmony of choral strains,<line>
+<line>While far Orion o'er the waves did walk<line>
+<line>That flow among the isles, held us in chains<line>
+<line>Of sweet captivity which none disdains   <line>                            _2330
+<line>Who feels; but when his zone grew dim in mist<line>
+<line>Which clothes the Ocean's bosom, o'er the plains<line>
+<line>The multitudes went homeward, to their rest,<line>
+<line>Which that delightful day with its own shadow blessed.</p></line>
 
 </body>
  </text>
