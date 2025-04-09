@@ -9,6 +9,7 @@
      </chapterheader>
      <p>
   <body>
+  <linegroup ="stanza">
    <line></line>
    <line></line>
    <line></line>
@@ -20,6 +21,7 @@
    <line></line>
    <line></line>
    <line></line>
+ </linegroup>
  </body>
   </chapter>
  </text>
