@@ -424,7 +424,7 @@ var elizaKeywords = [
      "We love confidence around here—go you.",
      "Big YES energy detected. Tell me more",
      "I like where your head’s at. Let’s keep that energy going!",
-     "I understand."
+     "I understand.",
      "Yes! That's the spirit. Keep it up"
   ]]
 ]],
