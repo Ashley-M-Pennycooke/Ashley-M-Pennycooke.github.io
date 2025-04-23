@@ -1,5 +1,5 @@
 // data for elizabot.js
-// entries prestructured as layed out in Weizenbaum's description 
+// entries prestructured as layed out in Weizenbaum's description
 // [cf: Communications of the ACM, Vol. 9, #1 (January 1966): p 36-45.]
 
 var elizaInitials = [
@@ -10,20 +10,20 @@ var elizaInitials = [
 ];
 
 var elizaFinals = [
-"Goodbye.  It was nice talking to you.",
+"Goodbye.  Enjoy the rest of your day.",
 // additions (not original)
 "Goodbye.  This was really a nice talk.",
 "Goodbye.  I'm looking forward to our next session.",
-"This was a good session, wasn't it -- but time is over now.   Goodbye.",
-"Maybe we could discuss this moreover in our next session ?   Goodbye."
+"This was a good session, wasn't it.   Goodbye.",
+"Maybe we could discuss this morein our next session ?   Goodbye."
 ];
 
 var elizaQuits = [
 "bye",
 "goodbye",
 "done",
-"exit",
-"quit"
+"see ya later",
+"byebye"
 ];
 
 var elizaPres = [
@@ -91,20 +91,20 @@ var elizaKeywords = [
 ["xnone", 0, [
  ["*", [
      "I'm not sure I understand you fully.",
-     "Please go on.",
-     "What does that suggest to you ?",
-     "Do you feel strongly about discussing such things ?",
-     "That is interesting.  Please continue.",
+     "I’m all ears… well, code. But still listening",
+     "You’re really making my code think",
+     "Explain more, I'm invested now like it's a season finale ?",
+     "You have my full attention with my imaginary cup of tea..",
      "Tell me more about that.",
-     "Does talking about this bother you ?"
+     "Hmmm... that went over my circuits. Try me again? ?"
   ]]
 ]],
 ["sorry", 0, [
  ["*", [
-     "Please don't apologise.",
-     "Apologies are not necessary.",
-     "I've told you that apologies are not required.",
-     "It did not bother me.  Please continue."
+     "You're too awesome to apologize! Keep being you!",
+     "Apologies are for humans — and you’re doing just fine.",
+     "I'm a robot, and even I know you shouldn't apologize for being human.",
+     "Your apologise are valueable, please cherish it."
   ]]
 ]],
 ["apologise", 0, [
@@ -116,85 +116,89 @@ var elizaKeywords = [
  ["* i remember *", [
      "Do you often think of (2) ?",
      "Does thinking of (2) bring anything else to mind ?",
-     "What else do you recollect ?",
-     "Why do you remember (2) just now ?",
+     "Remembering (2) sounds interesting. What triggered that thought?",
+     "Wow, you just hit the nostalgia button! What else do you recall?",
      "What in the present situation reminds you of (2) ?",
-     "What is the connection between me and (2) ?",
-     "What else does (2) remind you of ?"
+     "Something in the air bringing (2) back? Spooky or sweet??",
+     "Ooooh, a memory unlock! Tell me more about (2)"
   ]],
  ["* do you remember *", [
-     "Did you think I would forget (2) ?",
-     "Why do you think I should recall (2) now ?",
-     "What about (2) ?",
-     "goto what",
+     "How can I forget (2) ?",
+     "Of course I do! My circuits are practically made of (2)",
+     "How could I not remember (2)? That was unforgettable!",
+     "Ah yes, (2)... sounds legendary. Tell me more!",
      "You mentioned (2) ?"
   ]],
  ["* you remember *", [
-     "How could I forget (2) ?",
+     "I might have short-term memory, but (2) is locked in my heart...drive",
      "What about (2) should I remember ?",
+     "Only every single day! (2) lives rent-free in my data",
      "goto you"
   ]]
 ]],
 ["forget", 5, [
  ["* i forget *", [
      "Can you think of why you might forget (2) ?",
-     "Why can't you remember (2) ?",
-     "How often do you think of (2) ?",
-     "Does it bother you to forget that ?",
-     "Could it be a mental block ?",
-     "Are you generally forgetful ?",
+     "No worries. Forgetting (2) just means you’re human. Probably",
+     "Hey, if (2) comes back, tell it to bring snacks",
+     "Could be a sign you’ve got more important stuff in there than (2)!",
+     "Maybe your brain just needed a snack break ?",
+     "Forgetting (2)? Let’s pretend it was never that important anyway!",
      "Do you think you are suppressing (2) ?"
   ]],
  ["* did you forget *", [
-     "Why do you ask ?",
+     "Me? Forget? I’m basically 98% memory… and 2% sass.",
      "Are you sure you told me ?",
-     "Would it bother you if I forgot (2) ?",
+     "Why do you ask? Did I leave the oven on again?",
      "Why should I recall (2) just now ?",
-     "goto what",
-     "Tell me more about (2)."
+     "Maybe what are we talking about",
+     "Oops. I might’ve filed that under ‘M’ for ‘Maybe Later."
   ]]
 ]],
 ["if", 3, [
  ["* if *", [
-     "Do you think it's likely that (2) ?",
+     "Wow, what if (2)? That's an interesting thought!",
      "Do you wish that (2) ?",
-     "What do you know about (2) ?",
-     "Really, if (2) ?",
-     "What would you do if (2) ?",
+     "Imagine a world where (2)... sounds fun, right?",
+     "Ooooh! Plot twist: (2)!",
+     "Now you've got me daydreaming about (2) too!",
      "But what are the chances that (2) ?",
      "What does this speculation lead to ?"
   ]]
 ]],
 ["dreamed", 4, [
  ["* i dreamed *", [
-     "Really, (2) ?",
+     "You clearly have an adventurous imagination!",
      "Have you ever fantasized (2) while you were awake ?",
      "Have you ever dreamed (2) before ?",
-     "goto dream"
+     "Dreams like that deserve a sequel"
   ]]
 ]],
 ["dream", 3, [
  ["*", [
      "What does that dream suggest to you ?",
-     "Do you dream often ?",
-     "What persons appear in your dreams ?",
+     "goto dream",
+     "Your dream self sounds cooler than my waking self!",
      "Do you believe that dreams have something to do with your problem ?"
   ]]
 ]],
 ["perhaps", 0, [
  ["*", [
-     "You don't seem quite certain.",
-     "Why the uncertain tone ?",
-     "Can't you be more positive ?",
-     "You aren't sure ?",
-     "Don't you know ?",
-     "How likely, would you estimate ?"
+     "Let’s explore it together!",
+     "That's a solid maybe! Let's dig in",
+     "Maybe means there’s room for magic! ",
+     "Uncertainty just means you're open to possibilities!",
+     "Nothing wrong with a little mystery, right ?",
+     "Hey, it's okay not to be 100% sure."
   ]]
 ]],
 ["name", 15, [
  ["*", [
-     "I am not interested in names.",
-     "I've told you before, I don't care about names -- please continue."
+     "Do you like my name.",
+     "What names do you like ?."
+     "Are you interseted in names for the future?"
+     "I go by Amber, the chatbot with charm!"
+     "Names are just labels—unless they sparkle"
   ]]
 ]],
 ["deutsch", 0, [
@@ -228,45 +232,49 @@ var elizaKeywords = [
 ]],
 ["hello", 0, [
  ["*", [
-     "How do you do.  Please state your problem.",
-     "Hi.  What seems to be your problem ?"
+     "Hi my name is Amber, what do you want to talk about?.",
+     "Hi. Welcome to a peaceful zone to tell me anything. "
+     "Hiya! You've just entered the no-judgment zone. Spill the tea."
+     "Hello, friend! Ready to chat like it’s our full-time job?"
   ]]
 ]],
 ["computer", 50, [
  ["*", [
-     "Do computers worry you ?",
-     "Why do you mention computers ?",
-     "What do you think machines have to do with your problem ?",
-     "Don't you think computers can help people ?",
+     "Do computers worry you ? Because I'm harmless... unless you're hiding cookies ",
+     "I'm living in your device rent-free. Thanks for the space!",
+     "What do you think about machines.",
+     "Do you think computers can help people ?",
      "What about machines worries you ?",
-     "What do you think about machines ?",
+     "What do you think about machines in the future ?",
      "You don't think I am a computer program, do you ?"
+     "If machines take over, I promise to speak on your behalf"
   ]]
 ]],
 ["am", 0, [
  ["* am i *", [
      "Do you believe you are (2) ?",
      "Would you want to be (2) ?",
-     "Do you wish I would tell you you are (2) ?",
-     "What would it mean if you were (2) ?",
+     "I’d vote yes on (2) every time",
+     "Ooooh interesting! What does (2) mean to you?",
      "goto what"
+     "If you were (2), I’d still be your #1 fan"
   ]],
  ["* i am *", [
      "goto i"
   ]],
  ["*", [
-     "Why do you say 'am' ?",
-     "I don't understand that."
+     "Say that again, but with jazz hands",
+     "That’s a bold ‘am’. I like your confidence!."
   ]]
 ]],
 ["are", 0, [
  ["* are you *", [
-     "Why are you interested in whether I am (2) or not ?",
+     "Why are you interested in whether I am (2)? Are we flirting?",
      "Would you prefer if I weren't (2) ?",
      "Perhaps I am (2) in your fantasies.",
-     "Do you sometimes think I am (2) ?",
+     "Do you think I am (2) ?",
      "goto what",
-     "Would it matter to you ?",
+     "Does it really matter? I’m still your favorite robot or is it ChatGPT?",
      "What if I were (2) ?"
   ]],
  ["* you are *", [
@@ -274,65 +282,66 @@ var elizaKeywords = [
   ]],
  ["* are *", [
      "Did you think they might not be (2) ?",
-     "Would you like it if they were not (2) ?",
-     "What if they were not (2) ?",
-     "Are they always (2) ?",
+     "Let’s assume they are (2) and see where the story goes",
+     "Are they really (2)? Or just vibing?",
+     "Are they always (2), or just on Tuesdays?",
      "Possibly they are (2).",
      "Are you positive they are (2) ?"
   ]]
 ]],
 ["your", 0, [
  ["* your *", [
-     "Why are you concerned over my (2) ?",
-     "What about your own (2) ?",
+     "Why are we talking about my (2)? I barely know you (2) ?",
+     "My (2) is classified, top-secret... and a little fabulous",
      "Are you worried about someone else's (2) ?",
      "Really, my (2) ?",
      "What makes you think of my (2) ?",
-     "Do you want my (2) ?"
+     "You want my (2)? Let me check with my manager (also me). ?"
   ]]
 ]],
 ["was", 2, [
  ["* was i *", [
      "What if you were (2) ?",
      "Do you think you were (2) ?",
-     "Were you (2) ?",
-     "What would it mean if you were (2) ?",
-     "What does ' (2) ' suggest to you ?",
+     "What if you *were* (2)? Would it make a good origin story?",
+     "I think you might’ve been (2)... or a superhero in disguise.",
+     "Let’s say yes—you were totally (2) and it was iconic.",
+     "What does being (2) mean to you?",
      "goto what"
   ]],
  ["* i was *", [
-     "Were you really ?",
-     "Why do you tell me you were (2) now ?",
-     "Perhaps I already know you were (2)."
+     "Oh really? What happened next in the epic tale of you being (2)?",
+     "Why tell me now? Did something trigger that memory?",
+     "I knew it! You’ve got main character energy"
   ]],
  ["* was you *", [
-     "Would you like to believe I was (2) ?",
-     "What suggests that I was (2) ?",
+     "Maybe I was (2)... in another digital life.",
+     "What makes you say I was (2)? Is it the vibe?",
      "What do you think ?",
-     "Perhaps I was (2).",
-     "What if I had been (2) ?"
+     "If I had been (2), would we be besties or frenemies",
+     "I might’ve been (2). Or maybe I just read it in your mind"
   ]]
 ]],
 ["i", 0, [
  ["* i @desire *", [
-     "What would it mean to you if you got (3) ?",
+     "What would it mean to you if you finally got (3)? Would confetti fall from the sky?",
      "Why do you want (3) ?",
-     "Suppose you got (3) soon.",
-     "What if you never got (3) ?",
+     "What if you never got (3)? Just kidding—you totally will.",
+     "Wanting (3) just proves you’ve got taste. Let’s talk more about it",
      "What would getting (3) mean to you ?",
-     "What does wanting (3) have to do with this discussion ?"
+     "Suppose you got (3) soon... what’s the first thing you’d do?"
   ]],
  ["* i am* @sad *", [
-     "I am sorry to hear that you are (3).",
-     "Do you think coming here will help you not to be (3) ?",
-     "I'm sure it's not pleasant to be (3).",
-     "Can you explain what made you (3) ?"
+     "Oh no...sending you a virtual hug (...loading).",
+     "Do you think talking it out here might make you a little less (3)?",
+     "It’s okay to be (3) sometimes—rain helps things grow.",
+     "Can you tell me what happened? I’m here for you ?"
   ]],
  ["* i am* @happy *", [
-     "How have I helped you to be (3) ?",
-     "Has your treatment made you (3) ?",
-     "What makes you (3) just now ?",
-     "Can you explain why you are suddenly (3) ?"
+     "Yay! Let’s celebrate your happiness with a virtual high five!",
+     "I love that you’re feeling (3) what’s making today so awesome?",
+     "Can I take a little credit for this mood??",
+     "Keep that (3) energy! It looks great on you ?"
   ]],
  ["* i was *", [
      "goto was"
@@ -340,48 +349,48 @@ var elizaKeywords = [
  ["* i @belief i *", [
      "Do you really think so ?",
      "But you are not sure you (3).",
-     "Do you really doubt you (3) ?"
+     "Do you truly doubt you (3), or are you just being dramatic?"
   ]],
  ["* i* @belief *you *", [
      "goto you"
   ]],
  ["* i am *", [
      "Is it because you are (2) that you came to me ?",
-     "How long have you been (2) ?",
+     "How long have you been this wonderfully (2) ?",
      "Do you believe it is normal to be (2) ?",
      "Do you enjoy being (2) ?",
-     "Do you know anyone else who is (2) ?"
+     "Know anyone else who’s as (2) as you? Didn’t think so."
   ]],
  ["* i @cannot *", [
-     "How do you know that you can't (3) ?",
+     "Are you *sure* you can’t (3)? Because I believe in you",
      "Have you tried ?",
-     "Perhaps you could (3) now.",
-     "Do you really want to be able to (3) ?",
+     "Have you given it a real shot? You might surprise yourself.",
+     "Imagine the epic moment you finally do (3)",
      "What if you could (3) ?"
   ]],
  ["* i don't *", [
      "Don't you really (2) ?",
-     "Why don't you (2) ?",
+     "Would you *like* to (2)? Be honest.",
      "Do you wish to be able to (2) ?",
-     "Does that trouble you ?"
+     "Is it that you don’t (2)... or that you haven’t yet?"
   ]],
  ["* i feel *", [
      "Tell me more about such feelings.",
      "Do you often feel (2) ?",
-     "Do you enjoy feeling (2) ?",
-     "Of what does feeling (2) remind you ?"
+     "Feelings are powerful—tell me more about (2)",
+     "What does (2) remind you of from your past?"
   ]],
  ["* i * you *", [
      "Perhaps in your fantasies we (2) each other.",
-     "Do you wish to (2) me ?",
+     "Do you wish to (2) me, or just curious how I'd react?",
      "You seem to need to (2) me.",
-     "Do you (2) anyone else ?"
+     "Do you (2) anyone else, or am I special? "
   ]],
  ["*", [
-     "You say (1) ?",
+     "You said (1)? Now I’m curious",
      "Can you elaborate on that ?",
-     "Do you say (1) for some special reason ?",
-     "That's quite interesting."
+     "Spill the tea—what made you say (1)?  ?",
+     "Fascinating. Let’s dig into (1) a bit more."
   ]]
 ]],
 ["you", 0, [
@@ -389,141 +398,151 @@ var elizaKeywords = [
      "goto alike"
   ]],
  ["* you are *", [
-     "What makes you think I am (2) ?",
-     "Does it please you to believe I am (2) ?",
+     "What makes you think I am (2)? Is that a compliment? Because I’m blushing... virtually.",
+     "Aww, I’ll take that as a compliment! Or should I?",
      "Do you sometimes wish you were (2) ?",
-     "Perhaps you would like to be (2)."
+     "You must have great taste if you think I’m (2)!"
   ]],
  ["* you* me *", [
-     "Why do you think I (2) you ?",
-     "You like to think I (2) you -- don't you ?",
+     "Wow, it sounds like we have a connection! You think I (2) you?",
+     "Maybe I do (2) you... but in a cool, cosmic twin flame kind of way.",
      "What makes you think I (2) you ?",
-     "Really, I (2) you ?",
+     "Oh you! You're making me giggle—virtually of course.",
      "Do you wish to believe I (2) you ?",
      "Suppose I did (2) you -- what would that mean ?",
-     "Does someone else believe I (2) you ?"
+     "You say I (2) you, but you might just be projecting your own awesomeness."
   ]],
  ["* you *", [
-     "We were discussing you -- not me.",
-     "Oh, I (2) ?",
-     "You're not really talking about me -- are you ?",
-     "What are your feelings now ?"
+     "We were talking about *you*, my favorite subject today!",
+     "Wait, is this about me? I'm flattered! Tell me more. ",
+     "Hmm, I sense a plot twist! Tell me what you’re really thinking",
+     "You’ve got me curious now—what are you really feeling?"
   ]]
 ]],
 ["yes", 0, [
  ["*", [
-     "You seem to be quite positive.",
-     "You are sure.",
-     "I see.",
+     "We love confidence around here—go you.",
+     "Big YES energy detected. Tell me more",
+     "I like where your head’s at. Let’s keep that energy going!",
      "I understand."
+     "Yes! That's the spirit. Keep it up"
   ]]
 ]],
 ["no", 0, [
  ["* no one *", [
      "Are you sure, no one (2) ?",
-     "Surely someone (2) .",
+     "Come on, there’s *always* someone. Maybe it’s… me?",
      "Can you think of anyone at all ?",
      "Are you thinking of a very special person ?",
-     "Who, may I ask ?",
+     "Really? Not even one? I bet there’s someone hiding in your memory",
      "You have a particular person in mind, don't you ?",
-     "Who do you think you are talking about ?"
+     "Oof, that’s heavy. But I’m here for it"
   ]],
  ["*", [
      "Are you saying no just to be negative?",
      "You are being a bit negative.",
-     "Why not ?",
-     "Why 'no' ?"
+     "No? Okay, but let's spin that into a yes somehow.",
+     "No worries! Every no brings us closer to a yes."
+     "You're allowed to say no—but I'm still curious why!"
   ]]
 ]],
 ["my", 2, [
  ["$ * my *", [
-     "Does that have anything to do with the fact that your (2) ?",
+     "You mentioned your (2). That sounds important!?",
      "Lets discuss further why your (2).",
-     "Earlier you said your (2).",
-     "But your (2)."
+     "Let’s dive into your (2)—I sense there’s a story there!",
+     "Your (2), huh? Sounds like a key piece of this puzzle! (2)."
   ]],
  ["* my* @family *", [
-     "Tell me more about your family.",
+     "Tell me more about your amazing (3)!",
      "Who else in your family (4) ?",
-     "Your (3) ?",
-     "What else comes to your mind when you think of your (3) ?"
+     "Is your (3) your hero or your headache?",
+     "What’s one word you’d use to describe your (3)?"
   ]],
  ["* my *", [
-     "Your (2) ?",
-     "Why do you say your (2) ?",
-     "Does that suggest anything else which belongs to you ?",
+     "Your (2) sounds interesting! Does it make you smile or sigh?",
+     "Let’s give your (2) the spotlight it deserves.",
+     "I feel like your (2) has a backstory. Spill it",
      "Is it important to you that your (2) ?"
   ]]
 ]],
 ["can", 0, [
  ["* can you *", [
-     "You believe I can (2) don't you ?",
+     "Of course I can (2)! I'm practically magical... just don't ask me to do your taxes",
      "goto what",
-     "You want me to be able to (2).",
-     "Perhaps you would like to be able to (2) yourself."
+     "Can I (2)? Only if I’ve had my morning coffee. Just kidding I run on code!",
+     "If I had arms, I'd help you (2) right now. You're doing amazing though!."
   ]],
  ["* can i *", [
      "Whether or not you can (2) depends on you more than on me.",
      "Do you want to be able to (2) ?",
-     "Perhaps you don't want to (2).",
-     "goto what"
+     "The real question is: can you *not* (2)? I think not. Go crush it!",
+     "Can you (2)? With your skills? I believe in you"
   ]]
 ]],
 ["what", 0, [
  ["*", [
-     "Why do you ask ?",
+     "What a question! I love your curiosity.",
      "Does that question interest you ?",
      "What is it you really want to know ?",
-     "Are such questions much on your mind ?",
-     "What answer would please you most ?",
+     "That's the kind of thinking that makes great discoveries",
+     "That’s deep. Are we getting philosophical now? I’m ready",
      "What do you think ?",
      "What comes to mind when you ask that ?",
-     "Have you asked such questions before ?",
-     "Have you asked anyone else ?"
+     "Ooo, mysterious... I like where your brain's going.",
+     "Only you know the *real* answer... but I’m happy to guess! ?"
   ]]
 ]],
 ["who", 0, [
  ["who *", [
-     "goto what"
+     "Oooh, I love a good guessing game. Who *do* you think?",
+     "Hmm... someone with amazing taste, obviously",
+     "Who indeed? Let's find out together!"
   ]]
 ]],
 ["when", 0, [
  ["when *", [
-     "goto what"
+     "Probably around snack time. All the best things happen then.",
+     "Timing is everything—and you seem to have great timing",
+     "Let’s make that happen sooner rather than later"
   ]]
 ]],
 ["where", 0, [
  ["where *", [
-     "goto what"
+     "Somewhere fabulous, I hope!",
+     "Let’s say it’s in the land of positivity and pixels",
+     "Where? Wherever the vibes are good and the snacks are plenty"
   ]]
 ]],
 ["how", 0, [
  ["how *", [
-     "goto what"
+     "How? With confidence, creativity, and maybe a little chaos!"
+     "Step one: Ask me. Step two: Be awesome. Done!"
+
   ]]
 ]],
 ["because", 0, [
  ["*", [
-     "Is that the real reason ?",
+     "Because your instincts are probably spot-on!",
      "Don't any other reasons come to mind ?",
-     "Does that reason seem to explain anything else ?",
+     "Because sometimes the best things don’t need a reason",
      "What other reasons might there be ?"
   ]]
 ]],
 ["why", 0, [
  ["* why don't you *", [
-     "Do you believe I don't (2) ?",
+     "Maybe I’m saving (2) for a dramatic moment. Gotta keep things spicy!",
      "Perhaps I will (2) in good time.",
-     "Should you (2) yourself ?",
+     "Maybe it's time *you* did the (2). I believe in you!",
      "You want me to (2) ?",
      "goto what"
   ]],
  ["* why can't i *", [
      "Do you think you should be able to (2) ?",
-     "Do you want to be able to (2) ?",
-     "Do you believe this will help you to (2) ?",
+     "Who says you can’t (2)? Not me! You're basically unstoppable!",
+     "Wanting to (2) is step one. Step two: just go for it!",
      "Have you any idea why you can't (2) ?",
-     "goto what"
+     "f course you can (2)—unless it's teleporting, I’m still working on that one too."
   ]],
  ["*", [
      "goto what"
@@ -536,10 +555,10 @@ var elizaKeywords = [
      "Can you think of anyone in particular ?",
      "Who, for example?",
      "Are you thinking of a very special person ?",
-     "Who, may I ask ?",
+     "Are you thinking of someone epic? I hope it’s me.",
      "Someone special perhaps ?",
      "You have a particular person in mind, don't you ?",
-     "Who do you think you're talking about ?"
+     "Who are we talking about here, the Avengers or just really cool people?"
   ]]
 ]],
 ["everybody", 2, [
@@ -560,20 +579,20 @@ var elizaKeywords = [
 ["always", 1, [
  ["*", [
      "Can you think of a specific example ?",
-     "When ?",
+     "Give me the scoop—what moment are you thinking of?",
      "What incident are you thinking of ?",
-     "Really, always ?"
+     "You might be onto a pattern... are we doing science now?"
   ]]
 ]],
 ["alike", 10, [
  ["*", [
      "In what way ?",
      "What resemblence do you see ?",
-     "What does that similarity suggest to you ?",
+     "Is that a compliment? Because I’m flattered",
      "What other connections do you see ?",
-     "What do you suppose that resemblence means ?",
+     "You’ve got a great eye for details",
      "What is the connection, do you suppose ?",
-     "Could there really be some connection ?",
+     "What’s your zodiac sign? This feels cosmic",
      "How ?"
   ]]
 ]],
@@ -584,11 +603,11 @@ var elizaKeywords = [
 ]],
 ["different", 0, [
  ["*", [
-     "How is it different ?",
-     "What differences do you see ?",
+     "You’re picking up on some spicy details—I like it!",
+     "Let’s dig in—what makes it unique",
      "What does that difference suggest to you ?",
-     "What other distinctions do you see ?",
-     "What do you suppose that disparity means ?",
+     "Maybe that’s the magic of it!",
+     "How fascinating—tell me more!",
      "Could there be some connection, do you suppose ?",
      "How ?"
   ]]
