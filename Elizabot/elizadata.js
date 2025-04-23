@@ -442,7 +442,7 @@ var elizaKeywords = [
      "Are you saying no just to be negative?",
      "You are being a bit negative.",
      "No? Okay, but let's spin that into a yes somehow.",
-     "No worries! Every no brings us closer to a yes."
+     "No worries! Every no brings us closer to a yes.",
      "You're allowed to say no—but I'm still curious why!"
   ]]
 ]],
@@ -516,7 +516,7 @@ var elizaKeywords = [
 ]],
 ["how", 0, [
  ["how *", [
-     "How? With confidence, creativity, and maybe a little chaos!"
+     "How? With confidence, creativity, and maybe a little chaos!",
      "Step one: Ask me. Step two: Be awesome. Done!"
 
   ]]
@@ -542,7 +542,7 @@ var elizaKeywords = [
      "Who says you can’t (2)? Not me! You're basically unstoppable!",
      "Wanting to (2) is step one. Step two: just go for it!",
      "Have you any idea why you can't (2) ?",
-     "f course you can (2)—unless it's teleporting, I’m still working on that one too."
+     "Of course you can (2)—unless it's teleporting, I’m still working on that one too."
   ]],
  ["*", [
      "goto what"
