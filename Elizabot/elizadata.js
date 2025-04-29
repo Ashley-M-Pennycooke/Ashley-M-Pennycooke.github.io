@@ -87,7 +87,6 @@ var elizaKeywords = [
     ]]
   ]]
 */
-
 ["xnone", 0, [
  ["*", [
      "I'm not sure I understand you fully.",
@@ -195,9 +194,9 @@ var elizaKeywords = [
 ["name", 15, [
  ["*", [
      "Do you like my name.",
-     "What names do you like ?."
-     "Are you interseted in names for the future?"
-     "I go by Amber, the chatbot with charm!"
+     "What names do you like ?.",
+     "Are you interseted in names for the future?",
+     "I go by Amber, the chatbot with charm!",
      "Names are just labels—unless they sparkle"
   ]]
 ]],
@@ -233,8 +232,8 @@ var elizaKeywords = [
 ["hello", 0, [
  ["*", [
      "Hi my name is Amber, what do you want to talk about?.",
-     "Hi. Welcome to a peaceful zone to tell me anything. "
-     "Hiya! You've just entered the no-judgment zone. Spill the tea."
+     "Hi. Welcome to a peaceful zone to tell me anything. ",
+     "Hiya! You've just entered the no-judgment zone. Spill the tea.",
      "Hello, friend! Ready to chat like it’s our full-time job?"
   ]]
 ]],
@@ -246,8 +245,24 @@ var elizaKeywords = [
      "Do you think computers can help people ?",
      "What about machines worries you ?",
      "What do you think about machines in the future ?",
-     "You don't think I am a computer program, do you ?"
+     "You don't think I am a computer program, do you ?",
      "If machines take over, I promise to speak on your behalf"
+  ]]
+]],
+["am", 0, [
+ ["* am i *", [
+     "Do you believe you are (2) ?",
+     "Would you want to be (2) ?",
+     "Do you wish I would tell you you are (2) ?",
+     "What would it mean if you were (2) ?",
+     "goto what"
+  ]],
+ ["* i am *", [
+     "goto i"
+  ]],
+ ["*", [
+     "Why do you say 'am' ?",
+     "I don't understand that."
   ]]
 ]],
 ["am", 0, [
@@ -256,8 +271,9 @@ var elizaKeywords = [
      "Would you want to be (2) ?",
      "I’d vote yes on (2) every time",
      "Ooooh interesting! What does (2) mean to you?",
+     "If you were (2), I’d still be your #1 fan",
      "goto what"
-     "If you were (2), I’d still be your #1 fan"
+
   ]],
  ["* i am *", [
      "goto i"
